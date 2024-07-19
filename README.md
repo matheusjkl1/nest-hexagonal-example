@@ -10,7 +10,7 @@
 ## Pre-requisitos
 
 - Node 18.x.x
-- Yarn 1.22.x
+- Yarn 4.x.x
 - Docker Engine 24.x.x
 - Docker Compose 2.21.x
 
